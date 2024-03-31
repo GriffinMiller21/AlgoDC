@@ -5,4 +5,4 @@ This Python project implements a route optimization system for electric cars, fo
 When downloading this program, please make sure to download all of the contents in the ZIP file. In the zip file, the 'lib' directory is required to be within the same directory as the python program to work properly.
 Also, the Nodes_and_Edges.csv needs to be in the same directory as the Python files as it contains the nodes and edges for the program. 
 
-'pip install matplotlib' as it's a required l;ibrary for optimizing the nodes and visualizating the nodes in a graph. 'pip install pyvis' second in case matplotlib is not working properly.
+'pip install matplotlib' as it's a required library for optimizing the nodes and visualizating the nodes in a graph. 'pip install pyvis' second in case matplotlib is not working properly.
